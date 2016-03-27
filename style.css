@@ -1,0 +1,7 @@
+[class*='col-'] > p {
+   background-color: #FFC2C2;
+}
+
+[class*='col-'] {
+  background-color: #FFDCDC;
+}
