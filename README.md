@@ -11,7 +11,7 @@ Things to refer before understanding the code
 The box-sizing property is used to alter the default CSS box model used to calculate width and height of the elements.</br>
 More Info : https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
 
-</h2>CSS Selector</h2></br>
+<h2>CSS Selector</h2></br>
 In CSS, selectors are patterns used to select the element(s) you want to style.</br>
-<h3>CSS Selector CheatSheet</h3></br>
+<h4>CSS Selector CheatSheet</h4></br>
 http://www.w3schools.com/cssref/css_selectors.asp
