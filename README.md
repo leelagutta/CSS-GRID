@@ -12,5 +12,4 @@ More Info : https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
 
 <h4>CSS Selector</h4>
 In CSS, selectors are patterns used to select the element(s) you want to style.</br>
-<h5>CSS Selector CheatSheet</h5>
-http://www.w3schools.com/cssref/css_selectors.asp
+<h6>CSS Selector CheatSheet: </h6>http://www.w3schools.com/cssref/css_selectors.asp
