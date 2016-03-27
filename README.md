@@ -1,6 +1,6 @@
 # CSS-GRID
 
-This a simple css grid made from scratch. 
+This a simple css grid made from scratch. Columns are positioned using floats.
 
 I made this grid following the below tutorial. You can refer it for a detailed explanation.</br>
 http://j4n.co/blog/Creating-your-own-css-grid-system
